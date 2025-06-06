@@ -1,0 +1,239 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/chengji/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "成绩展示"
+		}
+	},{
+		"path": "pages/chengji/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "成绩添加"
+		}
+	},{
+		"path": "pages/chengji/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "成绩详情"
+		}
+	}
+	,{
+		"path": "pages/jiaoshi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教师展示"
+		}
+	},{
+		"path": "pages/jiaoshi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教师添加"
+		}
+	},{
+		"path": "pages/jiaoshi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教师详情"
+		}
+	}
+	,{
+		"path": "pages/jiaowutongzhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教务通知展示"
+		}
+	},{
+		"path": "pages/jiaowutongzhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教务通知添加"
+		}
+	},{
+		"path": "pages/jiaowutongzhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "教务通知详情"
+		}
+	}
+	,{
+		"path": "pages/kaoshianpai/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试安排展示"
+		}
+	},{
+		"path": "pages/kaoshianpai/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试安排添加"
+		}
+	},{
+		"path": "pages/kaoshianpai/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "考试安排详情"
+		}
+	}
+	,{
+		"path": "pages/kebiao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "课表展示"
+		}
+	},{
+		"path": "pages/kebiao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "课表添加"
+		}
+	},{
+		"path": "pages/kebiao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "课表详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#4477C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "高校教务管理系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#07588D",
+		"borderStyle": "black",
+		"backgroundColor": "#4477C5",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/jiaowutongzhi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "教务通知"
+			}
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "公告信息"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
